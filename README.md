@@ -1,6 +1,11 @@
 #源码共读-程序员学习成长计划
 
 
+
+
+
+
+
 @所有人 源码：  
 
 【源码共读第九周】函数响应式编程
@@ -59,5 +64,7 @@ http://t.cn/RVhfXGO 
 
 【源码共读第一周】快速排序算法：  
 http://t.cn/Rceeofo   
+
+**更多精彩内容，请关注公众号程序员大咖(CodePush)：**
 
 ![image](https://github.com/worldligang/CodeReading/blob/master/image/codepush.jpg)
